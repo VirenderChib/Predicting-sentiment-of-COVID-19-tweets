@@ -11,6 +11,7 @@ Text Preprocessing
 Exploratory Data Analysis
 Model Preprocessing
 Model Training
+
 ALGORITHMS USED:
 
 Logistic Regression with Grid Search CV
@@ -18,6 +19,7 @@ Decision Tree Classifier
 XG Boost
 KNN
 SVM Classifier for both Count Vector and TF ID Vectorization techniques.
+
 PROBLEM FACED:
 
 Text preprocessing.
