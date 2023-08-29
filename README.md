@@ -23,6 +23,7 @@ PROBLEM FACED:
 Text preprocessing.
 Vectorization.
 Model Training and performance improvement
+
 CONCLUSION:
 
 We conclude that the machine is generating the best results for the Logistic Regression with Grid Search CV (count vectorizer) model with an Accuracy of 79.38% followed by the Logistic Regression with Grid Search CV (TF/ID vectorizer) model with an Accuracy of 76.56%.
